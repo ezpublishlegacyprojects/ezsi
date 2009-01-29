@@ -9,4 +9,4 @@ The memcached.ini.append.php file stores the configuration for memcached
 This experimental part has to be used with a custom Apache module which 
 makes it possible to fetch cache file from memcached :
 
-http://code.google.com/mod_memcached_include
+http://code.google.com/p/modmemcachedinclude/
