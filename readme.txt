@@ -1,5 +1,1 @@
-- pas de lien cliquable dans la mail avec le code
-- trops de champs a remplir
-- a quoi ca sert? pas de page qui l'explique
-- pas de lien cliquable dans le mail de confirmation...
-- le lien dans l'eamil de "fais moi ami" m'oblige a me logguer (ok), mais quand je me loggue je ne suis pas redirigé automatiquement à la bonne page d'approbation
+This extension has bee migrated to GitHUB on 2010.10.26
